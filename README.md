@@ -12,7 +12,7 @@ Plan:
 * test performance 
 
 ```
-- architecture of an arm
-- transformation matrices
-- Jacobians
+[ ] architecture of an arm
+[ ] transformation matrices
+[ ] Jacobians
 ```
