@@ -11,8 +11,8 @@ Plan:
 * implement the model via ros & gazeba tools
 * test performance 
 
-```
+
 [ ] architecture of an arm
 [ ] transformation matrices
 [ ] Jacobians
-```
+
