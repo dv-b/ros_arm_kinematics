@@ -12,7 +12,10 @@ Plan:
 * test performance 
 
 
+
 - [ ] architecture of an arm
 - [ ] transformation matrices
 - [ ] Jacobians
+
+##### Experimenting on matlab using a robotics toolchain by prof. Corke
 
