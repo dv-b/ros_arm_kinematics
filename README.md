@@ -19,7 +19,6 @@ Plan:
 
 ##### Experimenting on matlab using a robotics toolchain by prof. Corke
 
-* install the toolchain
 * test forward kinamatics on a standard arm
 * test inverse kinamatics on a standard arm 
 
