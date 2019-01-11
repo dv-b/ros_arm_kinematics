@@ -1,4 +1,5 @@
 mdl_puma560
+
 p560
 
 p560.base = transl(10, 15, 2) * trotx(pi)
@@ -13,4 +14,4 @@ ql = p560.ikine6s(T, 'l');
 
 qr = p560.ikine6s(T, 'r');
 
-p560.plot(ql);
+p560.plot(qr);
