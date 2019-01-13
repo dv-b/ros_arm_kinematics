@@ -15,11 +15,14 @@ Plan:
 
 - [ ] architecture of an arm
 - [ ] transformation matrices
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 - [ ] Jacobians
 
 ##### Experimenting on matlab using a robotics toolchain by prof. Corke
 
 * test forward kinamatics on a standard arm
 * test inverse kinamatics on a standard arm 
+
+## Model description
+
+![alt text](https://github.com/dv-b/ros_arm_kinematics/raw/master/assets/Screen%20Shot%202019-01-13%20at%2011.40.06%20PM.png)
 
