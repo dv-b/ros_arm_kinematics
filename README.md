@@ -15,6 +15,7 @@ Plan:
 
 - [ ] architecture of an arm
 - [ ] transformation matrices
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 - [ ] Jacobians
 
 ##### Experimenting on matlab using a robotics toolchain by prof. Corke
