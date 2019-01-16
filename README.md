@@ -24,5 +24,8 @@ Plan:
 
 ## Model description
 
+This is a homogeneous matrix 
+
 ![alt text](https://github.com/dv-b/ros_arm_kinematics/raw/master/assets/Screen%20Shot%202019-01-13%20at%2011.40.06%20PM.png)
 
+Next we will consider a scesific arm with number of joints and their types
