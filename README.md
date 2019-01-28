@@ -29,3 +29,5 @@ This is a homogeneous matrix template to compute a homogeneous matrix for a spec
 ![alt text](https://github.com/dv-b/ros_arm_kinematics/raw/master/assets/Screen%20Shot%202019-01-13%20at%2011.40.06%20PM.png)
 
 Next we will consider a scesific arm with number of joints and their types
+
+Let's start with an arm with 6 revolute joints.
