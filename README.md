@@ -32,4 +32,4 @@ Next we will consider a scesific arm with number of joints and their types
 
 Let's start with an arm with 6 revolute joints.
 
-A classic robotic arm
+A classic robotic arm with Euler wrist at TCP
